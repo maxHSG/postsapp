@@ -1,6 +1,6 @@
 # PostsApp
 
-![alt tag](./demo/demo1.jpg)
+![alt tag](./demo/demo1.jpg){:height="250px"}
 
 
 ## Introdução
