@@ -1,5 +1,9 @@
 # PostsApp
 
+Credenciais:
+Login: admin
+Senha: admin
+
 <img src="https://github.com/maxHSG/postsapp/blob/master/demo/demo1.jpg" width="250px">
 
 ## Introdução
